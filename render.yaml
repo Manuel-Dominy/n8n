@@ -23,7 +23,7 @@ services:
     # You can define additional environment variables as needed.
     envVars:
       - key: WEBHOOK_URL
-        value: http://localhost:5678/form-test/163b0164-f676-47f9-885c-4a064e3420bb/form-test/163b0164-f676-47f9-885c-4a064e3420bb
+        value: https://n8n-service-mgp0.onrender.com
       # Generates a base64-encoded key for
       # encrypting credentials in n8n
       #
